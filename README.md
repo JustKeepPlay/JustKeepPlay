@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustKeepPlay
+- 👋 Hi, I'm Beck Parinyawat
 - 👀 I’m interested in AI and Machine learning
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on anyone
