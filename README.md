@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Machine learning
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me ...
+- 📫 How to reach me s.parinyawat.beck@gmail.com
 
 <!---
 JustKeepPlay/JustKeepPlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
